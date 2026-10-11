@@ -20,8 +20,8 @@ Here are 3 professional READMEs I built from my phone in Kano! 📱
 ⭐ All READMEs are 100% manual, clean markdown, client-ready!
 
 ### 💼 Hire Me
-🚀 Available on Fiverr - Professional READMEs from $20
-📧 Contact: Open an issue or DM me on X
-
+🚀 Available on Fiverr- Click  here to hire me
+📧 
+https://www.fiverr.com/s/kXXemwW
 ---
 *Built with dedication from Kano, Nigeria 🇳🇬 | Joined Oct 2025 | 11+ commits*
