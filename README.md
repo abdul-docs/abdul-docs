@@ -1,6 +1,6 @@
 ### 🔥 Recent Work - Portfolio
 
-Here are 3 professional READMEs I built:
+Here are 3 professional READMEs I built from my phone in Kano! 📱
 
 #### 1. 🛒 [ShopEase E-Commerce](https://github.com/abdul-docs/sample-readme-ecommerce)
 > Modern e-commerce platform with live demo, features, screenshots, tech stack. Full installation guide.
@@ -18,3 +18,10 @@ Here are 3 professional READMEs I built:
 - **Includes:** Why section, Installation, Usage, Used By stats
 
 ⭐ All READMEs are 100% manual, clean markdown, client-ready!
+
+### 💼 Hire Me
+🚀 Available on Fiverr - Professional READMEs from $20
+📧 Contact: Open an issue or DM me on X
+
+---
+*Built with dedication from Kano, Nigeria 🇳🇬 | Joined Oct 2025 | 11+ commits*
